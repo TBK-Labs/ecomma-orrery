@@ -1,0 +1,3 @@
+verification-*.png
+node_modules/
+.env
